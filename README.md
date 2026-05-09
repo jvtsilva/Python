@@ -14,4 +14,4 @@ Um projeto simples de lista de tarefas feito em Python para praticar lógica de 
 ## ▶️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/todo-list.git
+   git clone https://github.com/jvtsilva/Python/blob/main/listatodo.py
